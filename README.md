@@ -44,6 +44,8 @@ Recursive -
 <h6>● python konan.py -u/--url http://example.com/ -E/--recursive</h6>
 Brute Force directory provided by -S/--sub-dir -
 <h6>● python konan.py -u/--url http://example.com/ -S/--sub-dir "admin,dashboard,robots,dev,shadow"e</h6>
-  
+ 
+ 
+ 
  <h3>Developer</h3> 
  https://www.github.com/Bl4cKc34sEr
